@@ -2,9 +2,9 @@
 This project presents an interactive Sales Dashboard developed in Power BI for a leading beverage brand. The dashboard provides a comprehensive overview of sales performance, enabling stakeholders to make data-driven decisions effectively.
 # Usage
 This Power BI Sales Dashboard is intended to help stakeholders monitor and analyze the sales performance of a beverage brand effectively. 
-Performance Monitoring
-Regional Sales Analysis
-Product Category Tracking
+## Performance Monitoring
+## Regional Sales Analysis
+## Product Category Tracking
 # How to Use
 1Download the .pbix file from the repository.
 Open the file using Power BI Desktop.
